@@ -28,6 +28,66 @@ function App() {
         descricao='Tulipa'
         link='https://gru.ifsp.edu.br/images/phocagallery/galeria2/image04_grd.png'
       />
+      <Card
+        produto='flor'
+        descricao='Tulipa'
+        link='https://gru.ifsp.edu.br/images/phocagallery/galeria2/image04_grd.png'
+      />
+      <Card
+        produto='flor'
+        descricao='Tulipa'
+        link='https://gru.ifsp.edu.br/images/phocagallery/galeria2/image04_grd.png'
+      />
+      <Card
+        produto='flor'
+        descricao='Tulipa'
+        link='https://gru.ifsp.edu.br/images/phocagallery/galeria2/image04_grd.png'
+      />
+      <Card
+        produto='flor'
+        descricao='Tulipa'
+        link='https://gru.ifsp.edu.br/images/phocagallery/galeria2/image04_grd.png'
+      />
+      <Card
+        produto='flor'
+        descricao='Tulipa'
+        link='https://gru.ifsp.edu.br/images/phocagallery/galeria2/image04_grd.png'
+      />
+      <Card
+        produto='flor'
+        descricao='Tulipa'
+        link='https://gru.ifsp.edu.br/images/phocagallery/galeria2/image04_grd.png'
+      />
+      <Card
+        produto='flor'
+        descricao='Tulipa'
+        link='https://gru.ifsp.edu.br/images/phocagallery/galeria2/image04_grd.png'
+      />
+      <Card
+        produto='flor'
+        descricao='Tulipa'
+        link='https://gru.ifsp.edu.br/images/phocagallery/galeria2/image04_grd.png'
+      />
+      <Card
+        produto='flor'
+        descricao='Tulipa'
+        link='https://gru.ifsp.edu.br/images/phocagallery/galeria2/image04_grd.png'
+      />
+      <Card
+        produto='flor'
+        descricao='Tulipa'
+        link='https://gru.ifsp.edu.br/images/phocagallery/galeria2/image04_grd.png'
+      />
+      <Card
+        produto='flor'
+        descricao='Tulipa'
+        link='https://gru.ifsp.edu.br/images/phocagallery/galeria2/image04_grd.png'
+      />
+      <Card
+        produto='flor'
+        descricao='Tulipa'
+        link='https://gru.ifsp.edu.br/images/phocagallery/galeria2/image04_grd.png'
+      />
         </main>
       <Footer />
     </>
