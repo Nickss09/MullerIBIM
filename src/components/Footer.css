@@ -14,9 +14,9 @@
   }
   
   .footer .logo-footer img {
-    width: 80px;
-    height: auto;
-    border-radius: 50%;
+    width: 60px;
+    height: 55px;
+    border-radius: 80%;
   }
 
   .footer .social-icons {
